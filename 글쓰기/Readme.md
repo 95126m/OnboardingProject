@@ -12,6 +12,7 @@
 + Chrome
 + Naver Wale
 + Microsoft Edge ...
+
 추가적으로 모바일에서 네이버 블로그를 간편하게 사용하려면 App Store에서 Naver Blog를 설치 후에 사용합니다.
 
 ---
