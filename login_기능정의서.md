@@ -5,8 +5,8 @@
 ## 1. 기능명: 로그인
  
     기능 설명
-    블로그에 가입된 경우 로그인을 수행할수 있습니다. 
-    참고:https://help.naver.com/service/5640/contents/973?lang=ko
+    블로그에 가입된 경우 로그인을 수행할수 있습니다.    
+ 참고:https://help.naver.com/service/5640/contents/973?lang=ko
 
  입력항목
  - 아이디:  5~20자의 영문 소문자, 숫자와 특수기호 -, _ 만 사용 가능합니다. 
